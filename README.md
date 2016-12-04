@@ -1,11 +1,9 @@
 # hello-world
 
 # 1. Section 1
-***************************
 So interesting...
 
 # 2. Section 2
-***************************
 And so on...
 
 ## 2.1 Section 2.1
